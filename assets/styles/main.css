@@ -1,0 +1,11 @@
+html, body {
+    background-color: rgb(230, 230, 230);
+    overflow: hidden;
+}
+
+#three{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
